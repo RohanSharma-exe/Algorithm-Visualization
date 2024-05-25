@@ -13,22 +13,16 @@ This repository contains the code for a Depth-First Search (DFS) path finding al
 
 **How to Use**
 
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/your-username/dfs-path-finding-algorithm.git
-   ```
-
-2. Install the required libraries:
+1. Install the required libraries:
 
    ```bash
    pip install pygame
    ```
 
-3. Run the script:
+2. Run the script:
 
    ```bash
-   python main.py
+   python dfs.py
    ```
 
 **Explanation of the Code**
